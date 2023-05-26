@@ -109,7 +109,7 @@ ForcePlay Commands = playforce , bgtforce vplayforce , cplayforce
 **v** stands for video play.
 **force** stands for force play.
 
-/play or /bgt or /vplay or /cplay  - Bot will start playing your given query on voice chat or Stream live links on voice chats.
+/play or /khuni or /vplay or /cplay  - Bot will start playing your given query on voice chat or Stream live links on voice chats.
 
 /playforce or /force or /vplayforce or /cplayforce -  **Force Play** stops the current playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.
 
