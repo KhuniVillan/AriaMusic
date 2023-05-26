@@ -1,13 +1,13 @@
-### Powered By @BikashHalder & @AdityaHalder 
+### Powered By @MrKhunii 
 
-### Join @BikashGadgetsTech For More Update
+### Join @Khuni_X_Villan_Server For More Update
 
-### Join @AdityaCheats For Hack
+### Join @Dil_se_dil_tak_01 For Sayri
 
-### Join Our Chats @Bgt_Chat & @Adityadiscus 
+### Join Our Chats @lovingfriendsforever 
 
 
-### Powered By [@BikashHalder](https://t.me/Bikashhalder)
+### Powered By [@MrKhunii](https://t.me/MrKhunii)
 
 
 ### ABOUT THIS BOT
@@ -24,13 +24,13 @@
 [Kaali Linux](https://youtu.be/_nZT5lhcL8U)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
+[MrKhunii](https://t.me/MrKhunii)
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/lovingfriendsforever)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgadgetstech)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Dil_se_dil_tak_01)
 
 ## YouTube 📺
 
@@ -38,7 +38,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashHalderNew/Bgtplayer)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/KhuniVillan/AriaMusic)
 
 ## VPS DEPLOY                                                                                          
 💥 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐢𝐦𝐞 (𝐕𝐏𝐒) 💞
@@ -70,14 +70,14 @@ python3 -m modules
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![MrKhunii](https://graph.org/file/c2f110353910f1a166016.jpg)](https://t.me/MrKhunii)
 
 
-#### Main Developer = [Bikash](https://t.me/BikashHalder)
+#### Main Developer = [MrKhunii](https://t.me/MrKhunii)
 
 ## 💕 Special Thanks
 
-✅ Aditya Halder Thanks For Fixed All Error Or Lovely Support 💕
+✅ MrKhuni Thanks For Fixed All Error Or Lovely Support 💕
 
 ### 🥳 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐓𝐡𝐞𝐢𝐫 𝐒𝐨𝐮𝐫𝐜𝐞𝐬 🥳
 
@@ -85,4 +85,4 @@ python3 -m modules
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
-## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+## 🥀 Powered By [MrKhunii](https://t.me/MrKhunii) 
